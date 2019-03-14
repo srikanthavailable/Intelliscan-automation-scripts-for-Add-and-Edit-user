@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="homepage"
+    errors="0" failures="0" hostname="" id="" package="homepage" skipped="0"
+    tests="2" time="11.25" timestamp="">
+  
+    <testcase name="Intelliscan_Login_Script" classname="homepage" time="10.37" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Intelliscan_dashboard_contents" classname="homepage" time="0.8780" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

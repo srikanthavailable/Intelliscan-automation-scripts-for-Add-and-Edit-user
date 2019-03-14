@@ -1,0 +1,21 @@
+{
+  "name": "automation_scripts",
+  "version": "1.0.0",
+  "description": "Intelliscan automation scripts ",
+  "main": "global.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "divami",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^2.45.0",
+    "mocha": "^5.2.0",
+    "mochawesome-screenshots": "^1.6.0",
+    "nightwatch": "^1.0.18"
+  }
+}
